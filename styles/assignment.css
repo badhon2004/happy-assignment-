@@ -1,0 +1,85 @@
+* {
+    font-family: 'Work Sans';
+    /* border: 1px solid red; */
+}
+
+.header {
+    background-image: url("../images/banner/banner1.png");
+    background-size: cover;
+    padding-top: 35px;
+    margin-top: 0px;
+    height: 100%;
+    margin-bottom: 150px;
+    text-align: right;
+}
+
+
+.text-header {
+    margin: 200px;
+    margin-bottom: auto;
+}
+
+.button1 {
+    margin: 200px;
+    margin-top: auto;
+    background: hsl(17, 93%, 49%);
+    padding: 15px 30px;
+    border: 0;
+
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 25px;
+}
+
+.header-discription {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 30px;
+    color: #444343;
+}
+.section{
+    text-align: center;
+}
+.Planning{
+    text-align: center;
+}
+.planning-Container{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}   
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+.plan{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}   
+.plan{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+.plan-decoration{
+    color: #444343;
+}
+.section-class{
+    background-image: center;
+}
